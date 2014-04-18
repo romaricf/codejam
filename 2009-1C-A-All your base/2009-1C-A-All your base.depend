@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1363020327 source:c:\dev\2009-1c-a-all your base\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<map>
+	<stdlib.h>
+	<sstream>
+	<algorithm>
+

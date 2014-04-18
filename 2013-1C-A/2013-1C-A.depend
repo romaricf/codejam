@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1368357061 source:c:\dev\codejam\2013-1c-a\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<set>
+	<map>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1363550768 source:c:\dev\2012-1a-c-cruise control\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<set>
+	<map>
+	<list>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

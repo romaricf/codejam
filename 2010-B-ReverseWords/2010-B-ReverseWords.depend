@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1362829927 source:c:\dev\2010-b-reversewords\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<sstream>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1362832899 source:c:\dev\2008-1.a-a-minimum scalar product\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<sstream>
+	<algorithm>
+

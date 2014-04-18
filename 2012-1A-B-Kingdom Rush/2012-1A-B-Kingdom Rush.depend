@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1363525263 source:c:\dev\2012-1a-b-kingdom rush\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<sstream>
+	<algorithm>
+	<set>
+	<map>
+	<iomanip>
+

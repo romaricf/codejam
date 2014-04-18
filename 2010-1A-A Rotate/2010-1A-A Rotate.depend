@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1363005649 source:c:\dev\2010-1a-a rotate\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<sstream>
+	<algorithm>
+
